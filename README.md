@@ -14,3 +14,11 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+## About
+Learn the basics of React, such as components, props, state, data fetching, and more, while building a job listing frontend.
+
+## Reference
+YouTube video of **React Crash Course** by *Traversy Media* used for this project - 
+https://www.youtube.com/watch?v=LDB4uaJ87e0
